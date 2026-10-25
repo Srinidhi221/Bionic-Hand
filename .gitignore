@@ -1,0 +1,12 @@
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+MDK-ARM/DebugConfig/
+*.o
+*.d
+*.axf
+*.crf
+*.lst
+*.map
+*.dep
+*.build_log.htm
+*.uvguix.*
