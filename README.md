@@ -6,7 +6,7 @@ A five-finger bionic hand built on an **STM32 Black Pill (STM32F401CCU6)**. It c
 - **Tilt:** wear an **MPU6050** on your hand and bend your wrist; the bionic hand copies the motion.
 
 A 16x2 **I2C LCD** shows the Bluetooth status, the last command, the current mode and the wrist tilt angle.
-
+> *This project was developed as part of the **23CSE304 - Embedded Systems** course.*
 ---
 
 ## Features
@@ -205,5 +205,3 @@ bionic-hand/
 ---
 
 ## License
-
-Add a license of your choice (for example MIT) before publishing.
